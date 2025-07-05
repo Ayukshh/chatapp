@@ -13,7 +13,6 @@ Messages are stored in MongoDB.
 **Backend:**
 1. `cd backend`
 2. `npm install`
-3. Create a `.env` file (see `.env` example)
 4. `npm start`
 
 **Frontend:**
